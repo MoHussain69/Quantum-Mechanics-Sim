@@ -1,1 +1,1 @@
-# Quantum-Mechanics-Sim
+# Quantum-Mechanics-Simulator
